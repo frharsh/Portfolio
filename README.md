@@ -13,19 +13,3 @@ Hi, I'm **Harsh** — a cyber enthusiast with a keen interest in ethical hacking
 - Contact Information  
 - Social Media Links
 
-## 🌐 Live Site
-
-> Coming Soon or [Add your GitHub Pages URL here]
-
-## 💻 Tech Stack
-
-- HTML5  
-- CSS3  
-- JavaScript  
-- [Add frameworks or libraries if used, like Bootstrap, Tailwind, etc.]
-
-## 📁 Project Structure
-
-## 🚀 How to Run Locally
-
-```bash
